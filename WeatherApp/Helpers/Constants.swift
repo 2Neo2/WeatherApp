@@ -6,3 +6,21 @@
 //
 
 import Foundation
+
+struct Constants {
+    struct Images {
+        
+    }
+    
+    struct Fonts {
+        
+    }
+    
+    struct Colors {
+        
+    }
+    
+    struct Network {
+        
+    }
+}
